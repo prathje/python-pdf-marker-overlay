@@ -1,0 +1,38 @@
+[
+  {
+    "pages": [
+      {
+        "elements": [
+          {
+            "type": "example_text",
+            "options": {
+              "text": "This is the first copy"
+            }
+          },
+          {
+            "type": "example_corner_markers",
+            "options": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pages": [
+      {
+        "elements": [
+          {
+            "type": "example_text",
+            "options": {
+              "text": "This is the second copy"
+            }
+          },
+          {
+            "type": "example_corner_markers",
+            "options": {}
+          }
+        ]
+      }
+    ]
+  }
+]
